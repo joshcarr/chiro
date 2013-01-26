@@ -1,0 +1,29 @@
+{
+  "name": "chiro",
+  "title": "Chiro",
+  "description": "On Page Guidance for Backbone apps",
+  "version": "0.1.0",
+  "homepage": "https://github.com/joshcarr/chiro",
+  "author": {
+    "name": "Josh Carr",
+    "email": "joshcarr@gmail.com",
+    "url": "joshcarr.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joshcarr/chiro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joshcarr/chiro/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/joshcarr/chiro/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
